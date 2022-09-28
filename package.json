@@ -1,0 +1,17 @@
+{
+  "name": "channel-mute",
+  "version": "1.0.0",
+  "description": "mutes channel you are in",
+  "main": "channelmute.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Mark Zhdan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
