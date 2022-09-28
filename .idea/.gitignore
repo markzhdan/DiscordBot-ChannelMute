@@ -6,3 +6,11 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+# Cleanup files
+.idea/
+node_modules/
+
+# Key ignore
+.env
+
